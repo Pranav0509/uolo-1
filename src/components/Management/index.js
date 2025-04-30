@@ -14,25 +14,25 @@ class Management extends Component{
 
                     <div className='items-cont'>
                         <div className='item-1'>
-                            <img src="https://www.uolo.com/images/fees-icon.svg"/>
+                            <img alt="image" src="https://www.uolo.com/images/fees-icon.svg"/>
                             <h1 className='item-head'>Fees</h1>
                             <h2 className='item-conxt'>Ensure better cash flow management & reporting</h2>
                         </div>
          
                         <div className='item-1'>
-                            <img src="https://www.uolo.com/images/attendence-icon.svg"/>
+                            <img alt="image" src="https://www.uolo.com/images/attendence-icon.svg"/>
                             <h1 className='item-head'>Attendence </h1>
                             <h2 className='item-conxt'>Help reuduce teacher's non academic efforts</h2>
                         </div>
 
                         <div className='item-1'>
-                            <img src="https://www.uolo.com/images/chat-home.svg"/>
+                            <img alt="image" src="https://www.uolo.com/images/chat-home.svg"/>
                             <h1 className='item-head'>Communication</h1>
                             <h2 className='item-conxt'>Connect securely with all stake holders</h2>
                         </div>
 
                         <div className='item-1'>
-                            <img src="https://www.uolo.com/images/report-card.svg"/>
+                            <img alt="image" src="https://www.uolo.com/images/report-card.svg"/>
                             <h1 className='item-head'>Report Card</h1>
                             <h2 className='item-conxt'>Keeps parents updated on child's progress</h2>
                         </div>
@@ -41,15 +41,15 @@ class Management extends Component{
 
                 <div className='main-cont-3'>
                     <div className='img-star-cont'>
-                        <img className='img-star' src="https://www.uolo.com/images/speak-star.svg"/>
+                        <img alt="image" className='img-star' src="https://www.uolo.com/images/speak-star.svg"/>
                     </div>
                     <div className='combo'>
-                        <img className='img-brace' src="https://www.uolo.com/images/left-branket.svg"/>
+                        <img alt="image" className='img-brace' src="https://www.uolo.com/images/left-branket.svg"/>
                         <p className='para-cont'>
                             <span>Largest edtech company</span>of India & South-East <br/>Asia, partnering with private schools to drive<br/>
                             <span>impactful learning programs.</span><br/><img className="spring" src="https://www.uolo.com/images/speak-bottom-graphic.svg"/>
                         </p>
-                        <img className='img-brace' src="https://www.uolo.com/images/right-bracket.svg"/>
+                        <img alt="image" className='img-brace' src="https://www.uolo.com/images/right-bracket.svg"/>
                     </div>
                 </div>
 
