@@ -1,0 +1,86 @@
+.final-cont {
+    display: flex;
+    flex-direction: column;
+  }
+  
+.main-cont-5{
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+}
+
+.Uolo-cont{
+  margin: 40px;
+  font-size: 20px;
+}
+
+.comp-img{
+  height: 7vh;
+  width: 8vw;
+  margin: 20px;
+  margin-bottom: 50px;
+}
+.big-img{
+  height: 40vh;
+  width: 80vw;
+}
+
+  .apps {
+    display: flex;
+    flex-direction: column;
+  }
+  .app-img {
+    height: 9vh;
+    width: 15vw;
+    margin: 10px;
+  }
+  
+  .banner-cont {
+    background-image: url('https://www.uolo.com/images/interested-bg.svg');
+    background-size: cover;
+    height: 45vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    padding: 30px;
+  }
+  
+  .demo-btn {
+    background-color: white;
+    color: #5a39d6;
+    border: none;
+    padding: 10px;
+  }
+  
+  .items-cont {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 30px;
+  }
+  
+  .h-1 {
+    color: #98a2b3;
+    font-size: 22px;
+    font-weight: normal;
+  }
+  .s-1 {
+    font-weight: normal;
+    font-size: 20px;
+  }
+  
+  .sub {
+    display: flex;
+    justify-content: center;
+    font-size: 22px;
+  }
+  .sub-1 {
+    color: #98a2b3;
+    font-size: 18px;
+    font-weight: normal;
+    margin-bottom: 30px;
+  }
+  
